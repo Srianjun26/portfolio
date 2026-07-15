@@ -212,19 +212,19 @@ span{
 @keyframes words{
     0%,
     20%{
-        content: "Frontend developer";
+        content: "Front-End developer";
     }
     21%,
     40%{
-        content: "Web Developer";
+        content: "Back-End Developer";
     }
     41%,
     60%{
-        content: "UI/UX Designer";
+        content: "Full-Stack Developer";
     }
     61%,
     80%{
-        content: "React Developer";
+        content: "UI/UX Designer";
     }
     81%,
     100%{
